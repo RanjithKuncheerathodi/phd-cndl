@@ -2,9 +2,9 @@
 
 ## Three major results from the Ranjan et al study
 
-1. Result 1
-2. Result 2
-3. Result 3
+1. Seizure activity initiates in the cortico-thalamic circuit.
+2. Proposed algorithm identifies key nodes primarily in the cortex driving the hypersynchronous activity.
+3. Role of network structures in shaping the seizure dynamics. 
 
 ## Key nodes involved in the propagatin of synchronization
 
