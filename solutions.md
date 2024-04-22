@@ -23,7 +23,8 @@ To identify these transitions, a threshold is set based on the mean of the globa
 To calculate the transition time, the start time of the state change (desynchronization to synchronization) is recorded, along with the peak time of the transition just before it begins to decline. The transition time is then determined as the difference between the peak time and the start time. This process is repeated for all observed transitions.
 
 ### What is the average transition time you observe? Include units!
-Write a single number here. You can include a plot that shows all transitions superimposed, aligned to the start time of the transition.
+Write a single number here.(Epileptic seizures can range from several seconds to several minutes!).
+You can include a plot that shows all transitions superimposed, aligned to the start time of the transition.
 
 ### Include a box plot of the transition times for a single experiment below.
 Include the plot here.
