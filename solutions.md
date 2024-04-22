@@ -18,7 +18,7 @@ Write a single number here. Also include a plot of the entire timeseries.
 ### How do you define the transition time?
 Transition time is the time taken by a system or process to move from one state to another. In the context of this example, it specifically denotes the time taken for various brain regions to transition from a desynchronized state to a synchronized state.
 
-To identify these transitions, a threshold is set based on the mean of the global synchrony measure. When the global synchrony value surpasses this threshold, it signifies a synchronized state, whereas a value below it indicates a desynchronized state. The moment when this state changes from desynchronization to synchronization is regarded as a state transition.
+To identify these transitions, a threshold is set based on the mean of the global order measure. When the global order value surpasses this threshold, it signifies a synchronized state, whereas a value below it indicates a desynchronized state. The moment when this state changes from desynchronization to synchronization is regarded as a state transition.
 
 To calculate the transition time, the start time of the state change (desynchronization to synchronization) is recorded, along with the peak time of the transition just before it begins to decline. The transition time is then determined as the difference between the peak time and the start time. This process is repeated for all observed transitions.
 
