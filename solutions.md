@@ -2,13 +2,13 @@
 
 ## Three major results from the Ranjan et al study
 
-1. Depending on resource availability, states switch between synchronized and unsynchronized. A sudden transition to synchronization initiates a wave-like propagation from cortico-thalamic subnetworks to deeper subnetworks.
+1. Depending on resource availability, states switch between synchronized and unsynchronized. A sudden transition to synchronization initiates a wave like propagation from cortico-thalamic subnetworks to deeper subnetworks.
 2. A novel algorithm to analyze the propagation of synchronization across individual nodes (brain areas) within the MBN and identify the key nodes (key brain areas) responsible for this process.
 3. The role of network structures in shaping seizure dynamics and the correlation between the hyper-synchronized state and the ratio of resource consumption to recovery rate.
 
 ## Key nodes involved in the propagation of synchronization
 
-List them here.
+Cortex, Hippocampus, Striatum, Thalamus, Hypothalamus, Midbrain, Hindbrain.
 
 ## Basic model simulation (single iteration)
 
