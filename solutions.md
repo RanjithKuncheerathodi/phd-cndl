@@ -17,6 +17,7 @@ Write a single number here. Also include a plot of the entire timeseries.
 
 ### How do you define the transition time?
 Transition time is the time taken by a system or process to move from one state to another. In the context of this example, it specifically denotes the time taken for various brain regions to transition from a desynchronized state to a synchronized state.
+
 To calculate the transition time, the start time of the state change (desynchronization to synchronization) is recorded, along with the peak time of the transition just before it begins to decline. The transition time is then determined as the difference between the peak time and the start time. This process is repeated for all the observed transitions.
 
 ### What is the average transition time you observe? Include units!
