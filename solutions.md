@@ -13,7 +13,8 @@ Cortex, (Orbital, Olfactory), Hippocampus, Striatum, Thalamus, Hypothalamus, Mid
 ## Basic model simulation (single iteration)
 
 ### How many transitions do you see in a single simulation run?
-  248
+No. of transitions: 248
+  
 <img src='Timeseries.png' width="800">
 
 ### How do you define the transition time?
