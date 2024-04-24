@@ -8,7 +8,7 @@
 
 ## Key nodes involved in the propagation of synchronization
 
-Cortex, Hippocampus, Striatum, Thalamus, Hypothalamus, Midbrain, Hindbrain.
+Cortex, (Orbital, Olfactory),Hippocampus, Striatum, Thalamus, Hypothalamus, Midbrain, Hindbrain.
 
 ## Basic model simulation (single iteration)
 
