@@ -34,7 +34,7 @@ Average transition time: 64.39 sec (Epileptic seizures can range from several se
 ## Basic model simulation (different initial conditions)
 
 ### Include two box plots below, one for number of transitions and another for transition time
-Include the plots here.
+<img src='AllBoxSim' width="1000">
 
 ## Advanced simulations
 
