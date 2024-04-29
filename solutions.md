@@ -25,7 +25,7 @@ To calculate the transition time, the start time of the state change (desynchron
 ### What is the average transition time you observe? Include units!
 Average transition time: 69.15 sec (Epileptic seizures can range from several seconds to several minutes!).
 
-<img src='AllBox295.png' width="1000">
+<img src='All295.png' width="1000">
 
 ### Include a box plot of the transition times for a single experiment below.
 
