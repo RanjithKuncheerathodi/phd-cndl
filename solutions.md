@@ -40,10 +40,10 @@ Average transition time: 69.15 sec (Epileptic seizures can range from several se
 
 ### Box plot for number of events
 
-<img src='Bplot_adv1.png' width="1000">
+<img src='Bplot_adv1.png' width="700">
 
 ### Box plot for transition time
-<img src='Bplot_adv2.png' width="1000">
+<img src='Bplot_adv2.png' width="700">
 
 ## Interpreting results
 
