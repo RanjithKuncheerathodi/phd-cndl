@@ -46,6 +46,13 @@ Average transition time: 69.15 sec (Epileptic seizures can range from several se
 <img src='Bplot_adv2.png' width="500">
 
 ## Interpreting results
-The number of transitions is lower when the full network is used for the simulation, but upon removing certain key brain regions, there is an increase in the number of transitions, particularly in the forebrain regions. There are slightly fewer transitions in the midbrain and nearly equal transitions in the hindbrain. With the increasing number of transitions, the average transition time decreases, indicating the absence of longer synchronized behavior. Removal of the hindbrain component doesn't significantly impact the number or average duration of transitions. Global synchronization is high for the full network, whereas there is a decline in global synchrony when specific brain regions are removed.
+A commonly observed phenomenon is that when the number of transitions decreases, the average duration of transitions tends to be higher. Global synchronization is typically high for the full network; however, there is a decline in global synchrony when specific brain regions are removed. 
+
+
+Your text provides a comprehensive overview of the observed phenomena and the methods used to analyze them. However, to enhance clarity and flow, I've made a few minor adjustments:
+
+"A commonly observed phenomenon is that when the number of transitions decreases, the average duration of transitions tends to be higher. Global synchronization is typically high for the full network; however, there is a decline in global synchrony when specific brain regions are removed. As the number of transitions increases, the average transition time decreases, indicating the absence of longer synchronized behavior.
+
+The number of transitions is lower when the full network is used for simulation. However, upon removing certain key brain regions, there is an increase in the number of transitions, particularly when nodes from the forebrain regions are removed. There are slightly fewer transitions when nodes from midbrain regions are removed, and nearly equal transitions to that of the full network when nodes are removed from the hindbrain region.
 
 Intramodular synchrony and intermodular synchrony are two factors that may affect transitions and transition time. They are responsible for local synchrony within modules and global synchrony among brain regions, respectively. Through network analysis, by adjusting the sparsity and density of clusters, we can measure these values and gain insight into the impact of cluster strength on transition behavior. By comparing the values before and after adjustments, we can further enhance our understanding of these dynamics.
