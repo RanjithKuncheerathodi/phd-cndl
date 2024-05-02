@@ -46,5 +46,6 @@ Average transition time: 69.15 sec (Epileptic seizures can range from several se
 <img src='Bplot_adv2.png' width="500">
 
 ## Interpreting results
+The number of transitions is lower when the full network is used for the simulation, but upon removing certain key brain regions, there is an increase in the number of transitions, particularly in the forebrain regions. There are slightly fewer transitions in the midbrain and nearly equal transitions in the hindbrain. With the increasing number of transitions, the average transition time decreases, indicating the absence of longer synchronized behavior. Removal of the hindbrain component doesn't significantly impact the number or average duration of transitions. Global synchronization is high for the full network, whereas there is a decline in global synchrony when specific brain regions are removed.
 
-Provide your answer here.
+Intramodular synchrony and intermodular synchrony are two factors that may affect transitions and transition time. They are responsible for local synchrony within modules and global synchrony among brain regions, respectively. Through network analysis, by adjusting the sparsity and density of clusters, we can measure these values and gain insight into the impact of cluster strength on transition behavior. By comparing the values before and after adjustments, we can further enhance our understanding of these dynamics.
