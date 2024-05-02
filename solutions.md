@@ -46,7 +46,7 @@ Average transition time: 69.15 sec (Epileptic seizures can range from several se
 <img src='Bplot_adv2.png' width="500">
 
 ## Interpreting results
-A commonly observed phenomenon is that when the number of transitions decreases, the average duration of transitions tends to be higher. Global synchronization is typically high for the full network; however, there is a decline in global synchrony when specific brain regions are removed.
+A commonly observed phenomenon is that when the number of transitions decreases, the average duration of transitions tends to be higher (Indicating a prolonged synchronized behavior). Global synchronization is typically high for the full network; however, there is a decline in global synchrony when specific brain regions are removed.
 
 The number of transitions is notably higher in the network where forebrain regions are removed compared to all other cases, while the hindbrain region removed network shows a very low number of transitions. This shows the importance of the forebrain region in maintaining longer synchronization. Furthermore, it has been observed that even in the absence of the hindbrain region, synchronization is still maintained, indicating its lesser significance in synchronization.
 
