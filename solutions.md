@@ -20,10 +20,10 @@ No. of transitions: 2
 ### How do you define the transition time?
 Transition time is the time taken by a system or process to move from one state to another. In the context of this example, it specifically denotes the time taken for various brain regions to transition from a desynchronized state to a synchronized state.
 
-To calculate the transition time, the start time of the state change (desynchronization to synchronization) is recorded, along with the peak time of the transition just before it begins to decline. The transition time is then determined as the difference between the peak time and the start time. This process is repeated for all the observed transitions.
+To transition time is calculated as the time when global synchrony start increase upto when it begin to flat (around 90% of the peak time).
 
 ### What is the average transition time you observe? Include units!
-Average transition time: 69.15 sec (Epileptic seizures can range from several seconds to several minutes!).
+Average transition time: 92.5 sec (Epileptic seizures can range from several seconds to several minutes!).
 
 <img src='All295.png' width="1000">
 
