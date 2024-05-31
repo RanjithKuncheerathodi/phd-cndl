@@ -25,25 +25,25 @@ The transition time is calculated as the time when global synchrony start increa
 ### What is the average transition time you observe? Include units!
 Average transition time: 92.5 sec (Epileptic seizures can range from several seconds to several minutes!).
 
-<img src='All295.png' width="1000">
+<img src='Hist.png' width="1000">
 
 ### Include a box plot of the transition times for a single experiment below.
 
-<img src='Box295.png' width="500">
+<img src='Box-Single.png' width="500">
 
 ## Basic model simulation (different initial conditions)
 
 ### Include two box plots below, one for number of transitions and another for transition time
-<img src='Box_basic.png' width="1000">
+<img src='Box-All-Single.png' width="1000">
 
 ## Advanced simulations
 
 ### Box plot for number of events
 
-<img src='Bplot_adv1.png' width="500">
+<img src='Box_Adv1.png' width="500">
 
 ### Box plot for transition time
-<img src='Bplot_adv2.png' width="500">
+<img src='Box_Adv2.png' width="500">
 
 ## Interpreting results
 A commonly observed phenomenon is that when the number of transitions increases, the average duration of transitions tends to be higher (Indicating a prolonged synchronized behavior). Global synchronization is typically high for the full network; however, there is a decline in global synchrony when specific brain regions are removed.
