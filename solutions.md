@@ -13,9 +13,9 @@ Cortex, (Orbital, Olfactory), Hippocampus, Striatum, Thalamus, Hypothalamus, Mid
 ## Basic model simulation (single iteration)
 
 ### How many transitions do you see in a single simulation run?
-No. of transitions: 283
+No. of transitions: 2
   
-<img src='Timeseries295.png' width="800">
+<img src='Timeseries.png' width="800">
 
 ### How do you define the transition time?
 Transition time is the time taken by a system or process to move from one state to another. In the context of this example, it specifically denotes the time taken for various brain regions to transition from a desynchronized state to a synchronized state.
