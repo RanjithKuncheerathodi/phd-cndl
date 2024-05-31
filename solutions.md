@@ -15,7 +15,7 @@ Cortex, (Orbital, Olfactory), Hippocampus, Striatum, Thalamus, Hypothalamus, Mid
 ### How many transitions do you see in a single simulation run?
 No. of transitions: 2
   
-<img src='Timeseries.png' width="800">
+<img src='Timeseries.png' width="1000">
 
 ### How do you define the transition time?
 Transition time is the time taken by a system or process to move from one state to another. In the context of this example, it specifically denotes the time taken for various brain regions to transition from a desynchronized state to a synchronized state.
@@ -25,7 +25,7 @@ The transition time is calculated as the time when global synchrony start increa
 ### What is the average transition time you observe? Include units!
 Average transition time: 92.5 sec (Epileptic seizures can range from several seconds to several minutes!).
 
-<img src='Hist.png' width="200">
+<img src='Hist.png' width="500">
 
 ### Include a box plot of the transition times for a single experiment below.
 
